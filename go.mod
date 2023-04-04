@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/fardream/go-aptos v0.8.5
-	github.com/spf13/cobra v1.6.1
+	github.com/spf13/cobra v1.7.0
 )
 
 require (
